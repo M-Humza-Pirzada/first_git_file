@@ -1,2 +1,2 @@
 # first_git_file
-This is first git repository
+This is first git repository and updated
